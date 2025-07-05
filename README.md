@@ -145,5 +145,3 @@ Developed with the intention to support and empower teenagers struggling with me
 
 ```
 
-Let me know if you'd like this as a downloadable `README.md` file, or want help generating the actual `.py` files mentioned!
-```
