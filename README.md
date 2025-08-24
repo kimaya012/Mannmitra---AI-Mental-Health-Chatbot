@@ -51,7 +51,7 @@ chatbot\_project/
 
 ### 1. Download the Dataset
 
-- Visit the [Kaggle Dataset Link](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)
+- Visit the [Kaggle Dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)
 - Download `Sentiment_Analysis_for_Mental_Health.csv`
 - Place it in the `data/` directory
 
@@ -143,5 +143,5 @@ Type your message to chat. Type `exit` to end the session.
 
 Developed with the intention to support and empower teenagers struggling with mental health. Let's reduce stigma and make help more accessible.
 
-```
+
 
