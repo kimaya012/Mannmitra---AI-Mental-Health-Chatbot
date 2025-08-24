@@ -17,7 +17,7 @@ COPING_STRATEGIES = {
         "Remember, it's okay to not be okay. Sometimes, just acknowledging your feelings is a step forward. What's one feeling that's strong for you right now?",
         "If you're feeling really stuck, sometimes a change of scenery, even just a different room, can help reset your mind."
     ],
-    "general": [ # For neutral sentiment or when coping is explicitly requested
+    "general": [ 
         "Deep breathing can be really helpful. Would you like me to guide you through one?",
         "Exploring a creative outlet like drawing, writing, or listening to music can be a good way to express yourself.",
         "Spending time in nature, even just a few minutes, can be calming.",
@@ -27,7 +27,7 @@ COPING_STRATEGIES = {
     ]
 }
 
-# --- UPDATED CRISIS_RESOURCES FOR INDIA ---
+# --- CRISIS_RESOURCES FOR INDIA ---
 CRISIS_RESOURCES = (
     "\nI hear how much pain you're in, and your safety is the most important thing. "
     "Please reach out for immediate help in India:\n"
@@ -65,4 +65,5 @@ if __name__ == "__main__":
     print(f"For positive: {get_coping_mechanism(0.7)}")
 
     print("\n--- Testing Crisis Resources ---")
+
     print(get_crisis_resources())
